@@ -1,0 +1,137 @@
+[
+	{
+		"id": 1,
+		"name": "Leanne Graham",
+		"age": 31,
+		"country": "USA",
+		"salary": 4500000,
+		"role":"Entrepreneur",
+		"img": "https://images.pexels.com/photos/3778527/pexels-photo-3778527.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+	},
+	{
+		"id": 2,
+		"name": "Ervin Howell",
+		"role":"Scientist & Researcher",
+		"age": 33,
+		"country": "UK",
+		"salary": 7400000,
+		"img": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+	},
+	{
+		"id": 3,
+		"name": "Kurtis Weissnat",
+		"role":"Acting & Modelling",
+		"age": 35,
+		"country": "USA",
+		"salary": 5400000,
+		"img": "https://images.pexels.com/photos/32976/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+	},
+	{
+		"id": 4,
+		"name": "Maxime Nienow",
+		"role":"Journalist",
+		"age": 29,
+		"country": "Canada",
+		"salary": 4500000,
+		"img": "https://images.pexels.com/photos/1043473/pexels-photo-1043473.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+	},
+	{
+		"id": 5,
+		"name": "Nicholas John",
+		"role":"Politician",
+		"age": 39,
+		"country": " Mexico",
+		"salary": 7800000,
+		"img": "https://images.pexels.com/photos/3600142/pexels-photo-3600142.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+	},
+	{
+		"id": 6,
+		"name": "Glenn Reichert",
+		"role":"Writter & Producer",
+		"age": 33,
+		"country": "France",
+		"salary": 3800000,
+		"img": "https://images.pexels.com/photos/1726710/pexels-photo-1726710.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+	},
+	{
+		"id": 7,
+		"name": "Sergio Mriguelle",
+		"role":"Managing Director",
+		"age": 36,
+		"country": "Italy",
+		"salary": 5500000,
+		"img": "https://images.pexels.com/photos/718261/pexels-photo-718261.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+	},
+	{
+		"id": 8,
+		"name": "Robel Corkery",
+		"role":"Govt. Officer",
+		"age": 30,
+		"country": "Monaco",
+		"salary": 6500000,
+		"img": "https://images.pexels.com/photos/532220/pexels-photo-532220.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+	},
+	{
+		"id": 9,
+		"name": "Howard Jacobson",
+		"role":"Executive Director",
+		"age": 30,
+		"country": "Russia",
+		"salary": 4200000,
+		"img": "https://images.pexels.com/photos/697509/pexels-photo-697509.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+	},
+	{
+		"id": 10,
+		"name": "Dennis Schulist",
+		"role":"Fashion Designer",
+		"age": 35,
+		"country": "Poland",
+		"salary": 3800000,
+		"img": "https://images.pexels.com/photos/38554/girl-people-landscape-sun-38554.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+	},
+	{
+		"id": 11,
+		"name": "Chelsey Dietrich",
+		"role":"Entrepreneur",
+		"age": 33,
+		"country": "Germany",
+		"salary": 4800000,
+		"img": "https://images.pexels.com/photos/1024311/pexels-photo-1024311.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+	},
+	{
+		"id": 12,
+		"name": "Patricia Lebsack",
+		"role":"Acting & Modelling",
+		"age": 39,
+		"country": "Australia",
+		"salary": 3500000,
+		"img": "https://images.pexels.com/photos/5717549/pexels-photo-5717549.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+	},
+	{
+		"id": 13,
+		"name": "Clementine Bauch",
+		"role":"Doctor",
+		"age": 37,
+		"country": "Denmark",
+		"salary": 3100000,
+		"img": "https://images.pexels.com/photos/227294/pexels-photo-227294.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+	},
+	{
+		"id": 14,
+		"name": "Deckow Crist",
+		"role":"Women Rights Association",
+		"age": 28,
+		"country": "Austria",
+		"salary": 2500000,
+		"img": "https://images.pexels.com/photos/8993561/pexels-photo-8993561.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+	},
+	{
+		"id": 15,
+		"name": "Romaguera Crona",
+		"role":"Social Worker",
+		"age": 41,
+		"country": "Thailand",
+		"salary": 2400000,
+		"img": "https://images.pexels.com/photos/3290236/pexels-photo-3290236.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+	}
+]
