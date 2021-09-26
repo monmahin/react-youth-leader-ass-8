@@ -1,6 +1,7 @@
 .leaderboard-container {
   display: grid;
   grid-template-columns: 3fr 1fr;
+  /* position: relative; */
 }
 .cards {
   display: grid;
@@ -11,4 +12,11 @@
 }
 .cart {
   text-align: center;
+  position: relative;
+  /* position: fixed;
+  z-index: 10;
+  top: 40px;
+  left: 1000px;
+
+  width: 25%; */
 }
