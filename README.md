@@ -10,6 +10,9 @@ we use fontAwesome kit;
 
 we Use [npm run built] to deploy the project in netlify.
 
+###Tags
+Compatible With	ReactJS, css
+
 ### Deployment
 
 This section has moved here: [https://react-global-youth-leader.netlify.app/](https://react-global-youth-leader.netlify.app/)
