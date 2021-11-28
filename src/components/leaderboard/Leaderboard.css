@@ -12,7 +12,7 @@
 }
 .cart {
   text-align: center;
-  position: relative;
+  /* position: relative; */
   /* position: fixed;
   z-index: 10;
   top: 40px;
